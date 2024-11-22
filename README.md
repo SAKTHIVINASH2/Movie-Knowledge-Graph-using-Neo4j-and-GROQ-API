@@ -101,4 +101,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Contact
-For any queries or suggestions, feel free to reach out at your-email@example.com.
+For any queries or suggestions, feel free to reach out at sakthivinashb@example.com.
