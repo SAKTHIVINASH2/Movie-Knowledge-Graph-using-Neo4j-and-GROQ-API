@@ -42,8 +42,8 @@ The dataset includes the following fields:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-knowledge-graph.git
-   cd movie-knowledge-graph
+   git clone https://github.com/SAKTHIVINASH2/Movie-Knowledge-Graph-using-Neo4j-and-GROQ-API.git
+   cd Movie-Knowledge-Graph-using-Neo4j-and-GROQ-API
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
