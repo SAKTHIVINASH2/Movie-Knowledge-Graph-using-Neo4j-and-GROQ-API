@@ -89,6 +89,12 @@ print(response)
 
 --- 
 
+### Result
+
+<img src="result/visualisation (1).png" width="75%"/>
+
+--- 
+
 ### Future Enhancements
 - Add recommendation system capabilities using graph traversal.
 - Visualize the graph for better exploration of relationships.
