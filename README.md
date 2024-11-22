@@ -96,7 +96,7 @@ print(response)
 ---
 
 ### License
-This project is licensed under the [MIT License](https://neo4j.com/cloud/aura/).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
