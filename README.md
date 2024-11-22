@@ -1,4 +1,4 @@
-# Building-a-Knowledge-Graph-for-Movie-Data-Using-Neo4j-and-GROQ-API
+# Movie Knowledge Graph using Neo4j and GROQ API
 
 ## Introduction
 This project showcases how to construct a knowledge graph for a movie dataset using **Neo4j** and **GROQ API**. The dataset includes attributes such as `movieId`, `title`, `release year`, `actors`, `director`, `genres`, and `IMDb rating`. By combining the power of graph databases and GROQ queries, the project allows for advanced semantic queries, providing valuable insights into the movie domain.
