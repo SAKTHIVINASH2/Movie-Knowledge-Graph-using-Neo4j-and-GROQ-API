@@ -77,7 +77,8 @@ print(response)
 ### Project Structure
 ```
 ├── data/
-│   └── movies.csv          # Input movie dataset
+│   └── link.txt          # Link to movie dataset
+|   └── README.md         # dataset documentation
 ├── src/
 │   ├──main.py              # Main script to run the project
 |                           # Neo4j graph initialization and utilities
