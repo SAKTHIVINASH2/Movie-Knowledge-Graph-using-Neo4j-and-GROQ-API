@@ -79,8 +79,11 @@ print(response)
 ├── data/
 │   └── link.txt          # Link to movie dataset
 |   └── README.md         # dataset documentation
+├── result/
+|   └── neo4j_query_table_data_2024-11-22.csv  # sample result CSV file
+|   └── visualisation (1).png  # sample png
 ├── src/
-│   ├──main.py              # Main script to run the project
+│   └── main.py              # Main script to run the project
 |                           # Neo4j graph initialization and utilities
 │                           # GROQ API integration functions
 ├── requirements.txt        # Required Python libraries
